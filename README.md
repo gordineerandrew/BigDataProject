@@ -47,3 +47,7 @@ questions:
 3.	How did you coordinate your efforts? 
 4.	What worked well, and what did not work well, in your collaboration?
 5.	How did you benefit from working with a partner (or partners)?
+
+
+
+Source: https://sites.google.com/site/whscspmrkess/creative-projects/creative-project-3-big-data
