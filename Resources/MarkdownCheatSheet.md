@@ -613,3 +613,6 @@ With a reference later in the document defining the URL location:
 
     [id]: http://octodex.github.com/images/dojocat.jpg  "The Dojocat"
 
+
+
+Source: http://assemble.io/docs/Markdown.html
