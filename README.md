@@ -51,6 +51,3 @@ questions:
 
 
 Source: https://sites.google.com/site/whscspmrkess/creative-projects/creative-project-3-big-data
-
-
-> Written with [StackEdit](https://stackedit.io/).
