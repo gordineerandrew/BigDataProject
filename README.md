@@ -1,5 +1,5 @@
-# **Big Data Project**
-## Explanation of Collaborative Report
+﻿# **Big Data Project**
+## Explanation of Webpage
 As a group, respond directly to each of the following prompts. This report 
 will provide the details of your investigation and should include non-textual 
 representations that communicate the results of your investigation. These 
