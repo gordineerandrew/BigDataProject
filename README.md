@@ -49,5 +49,3 @@ questions: (10 points)
 5.	How did you benefit from working with a partner (or partners)?
 
 
-
-Source: https://sites.google.com/site/whscspmrkess/creative-projects/creative-project-3-big-data
